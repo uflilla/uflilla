@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uflilla
-- 👀 I’m interested in .NET Developement
-- 🌱 I’m currently learning WPF and ASP.NET Core.
-- 💞️ I’m looking to collaborate on .NET Core projects.
+- 👀 I’m interested in .NET Developement and Web Developemnt
+- 🌱 I have 5 years experience in WPF developement and currently learning Web Developement.
+- 💞️ I’m looking to collaborate on learning projects.
 - 📫 How to reach me uflilla@gmail.com
 
 <!---
